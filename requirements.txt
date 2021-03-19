@@ -10,7 +10,7 @@ django-bootstrap3==11.0.0
 django-ipware==2.1.0
 django-mustache==1.1.1
 django-qr-code==1.0.0
-djangorestframework==3.9.2
+djangorestframework==3.11.2
 gunicorn==19.9.0
 idna==2.8
 imutils==0.5.2
